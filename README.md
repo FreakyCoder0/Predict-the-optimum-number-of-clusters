@@ -1,2 +1,9 @@
 # Predict-the-optimum-number-of-clusters
-Prediction using Unsupervised ML (GRIP)
+## Graduate Rotational Internship Program (GRIP)
+## The Sparks Foundation
+
+From the given ‘Iris’ dataset, predict the optimum number of clusters
+and represent it visually.
+* Use R or Python or perform this task
+* Dataset : https://bit.ly/3kXTdox
+* Sample Solution : https://bit.ly/3cGyP8j
